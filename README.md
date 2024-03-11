@@ -8,10 +8,12 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Ablyakimov&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ### 👨‍💻: About Me: 
+
 - 🔭: I’m working as a Frontend-developrt and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
