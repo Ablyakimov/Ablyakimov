@@ -17,7 +17,7 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AblyakimovRemzi)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ablyakimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AblyakimovRemzi)
 
 - ### :hammer_and_wrench: Languages and Tools :
 
